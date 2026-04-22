@@ -1,5 +1,12 @@
 # @rosen-bridge/watcher-data-extractor
 
+## 13.0.6
+
+### Patch Changes
+
+- Update dependencies
+  - @rosen-bridge/tokens@6.0.1
+
 ## 13.0.5
 
 ### Patch Changes
